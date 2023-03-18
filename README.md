@@ -1,4 +1,4 @@
-# README.md - To-Do-List NodeJs MVC Architecture 📃
+# README.md - To-Do-List NodeJs MySQL MVC Architecture 📃
 ![wwwwww](https://user-images.githubusercontent.com/85243693/226130292-3450b471-48c7-421a-9ecb-6aa60d79a0e9.gif)
 
 ## Description 📜
@@ -7,9 +7,6 @@ This repository contains a To-Do List application developed using Node.js, Expre
 ## Features 🎫
 1. Add, edit, and delete tasks
 2. Mark tasks as completed
-3. Filter tasks by status (completed or not)
-4. Search tasks by title or description
-5. Pagination of tasks
 
 ## Used Technologies 🛠️
 - NodeJs
